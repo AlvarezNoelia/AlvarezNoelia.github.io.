@@ -1,0 +1,30 @@
+ * {
+    text-align: center;
+}
+
+body {
+    background: #4F82CA;
+    background: -moz-linear-gradient(top, #4F82CA 0%, #5DCCD9 45%, #BAD2D6 100%);
+    background: -webkit-linear-gradient(top, #4F82CA 0%, #5DCCD9 45%, #BAD2D6 100%);
+    background: linear-gradient(to bottom, #4F82CA 0%, #5DCCD9 45%, #BAD2D6 100%);
+    font-family:'Montserrat', sans-serif;
+}          
+
+ul {
+    list-style: none;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+img {
+    border: 3px solid #141111;
+    border-radius: 5px;
+    padding: 1px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
